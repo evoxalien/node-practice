@@ -1,4 +1,4 @@
-# Python Basic Kata
+# Node Basic Kata
 
 ## 1. Variables
 
